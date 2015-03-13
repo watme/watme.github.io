@@ -1,0 +1,50 @@
+{"sorular":[
+    {"soru":"2 - 2 x 2 işleminin sonucu nedir?", "cevaplar":[
+          {"cevap":"0"}, 
+          {"cevap":"2"}, 
+          {"cevap":"-2"}, 
+          {"cevap":"4"}
+    ], "dogru":"2"},
+	{"soru":"Kendisinden ve 1den başka hiçbir böleni olmayan sayıya ne denir?", "cevaplar":[
+          {"cevap":"Ondalık Sayı"}, 
+          {"cevap":"Bölümsüz Sayı"}, 
+          {"cevap":"Asal Sayı"}, 
+          {"cevap":"Mahmut"}
+    ], "dogru":"2"},
+	{"soru":"Hangisinin kökü irrasyonel sayıdır?", "cevaplar":[
+          {"cevap":"1"}, 
+          {"cevap":"2"}, 
+          {"cevap":"4"}, 
+          {"cevap":"16"}
+    ], "dogru":"1"},
+	{"soru":"1 - 2 x 3 - 1 işleminin sonucu kaçtır?", "cevaplar":[
+          {"cevap":"-6"}, 
+          {"cevap":"-4"}, 
+          {"cevap":"2"}, 
+          {"cevap":"-2"}
+    ], "dogru":"0"},
+	{"soru":"10 metre kaç milimetredir?", "cevaplar":[
+          {"cevap":"10"}, 
+          {"cevap":"100"}, 
+          {"cevap":"1 000"}, 
+          {"cevap":"10 000"}
+    ], "dogru":"3"},
+	{"soru":"Pi (3.14159265) sayısının kendisiyle çarpımı kaçtır?", "cevaplar":[
+          {"cevap":"9,8696"},
+          {"cevap":"27,3333"},
+          {"cevap":"27,1243"},
+          {"cevap":"31,4159265"}
+    ], "dogru":"0"},
+	{"soru":"Hacmi 9 olan kübün kenar uzunluğu kaçtır?", "cevaplar":[
+          {"cevap":"1"},
+          {"cevap":"2"},
+          {"cevap":"3"},
+          {"cevap":"4"}
+    ], "dogru":"2"},
+	{"soru":"2 sayısı için hangisi söylenemez?", "cevaplar":[
+          {"cevap":"Çift Sayı"},
+          {"cevap":"Asal Sayı"},
+          {"cevap":"Reel Sayı"},
+          {"cevap":"İrrasyonel Sayı"}
+    ], "dogru":"3"}
+]}

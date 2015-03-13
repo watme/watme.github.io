@@ -1,0 +1,38 @@
+{"sorular":[
+    {"soru":"World War I began in which year?", "cevaplar":[
+          {"cevap":"1923"}, 
+          {"cevap":"1938"}, 
+          {"cevap":"1917"}, 
+          {"cevap":"1914"}
+    ], "dogru":"3"},
+	{"soru":"Adolf Hitler was born in which country?", "cevaplar":[
+          {"cevap":"France"}, 
+          {"cevap":"Germany"}, 
+          {"cevap":"Austria"}, 
+          {"cevap":"Hungary"}
+    ], "dogru":"2"},
+	{"soru":"The Magna Carta was published by the King of which country?", "cevaplar":[
+          {"cevap":"France"}, 
+          {"cevap":"Austria"}, 
+          {"cevap":"Italy"}, 
+          {"cevap":"England"}
+    ], "dogru":"3"},
+	{"soru":"The Hundred Years War was fought between what two countries?", "cevaplar":[
+          {"cevap":"China and Taiwan"}, 
+          {"cevap":"England and Indonesia"}, 
+          {"cevap":"France and England"}, 
+          {"cevap":"Spain and France"}
+    ], "dogru":"2"},
+	{"soru":"Which is not actually a christianized holiday of pagans?", "cevaplar":[
+          {"cevap":"Christmas"}, 
+          {"cevap":"Easter"}, 
+          {"cevap":"Halloween"}, 
+          {"cevap":"Thanksgiving"}
+    ], "dogru":"3"},
+    {"soru":"What is the worlds most populous country?", "cevaplar":[
+          {"cevap":"India"}, 
+          {"cevap":"China"}, 
+          {"cevap":"Indonesia"}, 
+          {"cevap":"Russia"}
+    ], "dogru":"1"}
+]}

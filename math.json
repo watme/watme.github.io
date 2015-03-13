@@ -1,0 +1,50 @@
+{"sorular":[
+    {"soru":"What is 2 - 2 x 2", "cevaplar":[
+          {"cevap":"0"}, 
+          {"cevap":"2"}, 
+          {"cevap":"-2"}, 
+          {"cevap":"4"}
+    ], "dogru":"2"},
+	{"soru":"What is a natural number that has no positive divisors other than 1 and itself?", "cevaplar":[
+          {"cevap":"Even Number"}, 
+          {"cevap":"Rational Number"}, 
+          {"cevap":"Prime Number"}, 
+          {"cevap":"Rihanna"}
+    ], "dogru":"2"},
+	{"soru":"Which one is square of an irrational number?", "cevaplar":[
+          {"cevap":"1"}, 
+          {"cevap":"2"}, 
+          {"cevap":"4"}, 
+          {"cevap":"16"}
+    ], "dogru":"1"},
+	{"soru":"What is 1 - 2 x 3 - 1", "cevaplar":[
+          {"cevap":"-6"},
+          {"cevap":"-4"},
+          {"cevap":"2"},
+          {"cevap":"-2"}
+    ], "dogru":"0"},
+	{"soru":"how many millimeters in 10 meters?", "cevaplar":[
+          {"cevap":"10"},
+          {"cevap":"100"},
+          {"cevap":"1 000"},
+          {"cevap":"10 000"}
+    ], "dogru":"3"},
+	{"soru":"What is pi (3.14159265) multiplied by pi?", "cevaplar":[
+          {"cevap":"9,8696"},
+          {"cevap":"27,3333"},
+          {"cevap":"27,1243"},
+          {"cevap":"31,4159265"}
+    ], "dogru":"0"},
+	{"soru":"If you have a cube with the volume of 9, what is the length of the cube?", "cevaplar":[
+          {"cevap":"1"},
+          {"cevap":"2"},
+          {"cevap":"3"},
+          {"cevap":"4"}
+    ], "dogru":"2"},
+	{"soru":"What do we call lines that intersect at a 90 degree angle?", "cevaplar":[
+          {"cevap":"Intersecting Lines"}, 
+          {"cevap":"Orthogonal Lines"}, 
+          {"cevap":"Vertical Lines"}, 
+          {"cevap":"Perpendicular Lines"}
+    ], "dogru":"3"}
+]}

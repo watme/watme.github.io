@@ -1,0 +1,38 @@
+{"sorular":[
+    {"soru":"Birinci Dünya Savaşı kaç yılında başladı?", "cevaplar":[
+          {"cevap":"1923"}, 
+          {"cevap":"1938"}, 
+          {"cevap":"1917"}, 
+          {"cevap":"1914"}
+    ], "dogru":"3"},
+	{"soru":"Adolf Hitler hangi ülkede doğmuştur?", "cevaplar":[
+          {"cevap":"Fransa"}, 
+          {"cevap":"Almanya"}, 
+          {"cevap":"Avusturya"}, 
+          {"cevap":"Macaristan"}
+    ], "dogru":"2"},
+	{"soru":"Magna Carta hangi ülke kralınca yayınlanmıştır?", "cevaplar":[
+          {"cevap":"Fransa"}, 
+          {"cevap":"Avusturya"}, 
+          {"cevap":"İtalya"}, 
+          {"cevap":"İngiltere"}
+    ], "dogru":"3"},
+	{"soru":"Yüz Yıl Savaşları hangi iki devlet arasındaydı?", "cevaplar":[
+          {"cevap":"Çin ve Tayvan"}, 
+          {"cevap":"İngiltere ve Endonezya"}, 
+          {"cevap":"Fransa ve İngiltere"}, 
+          {"cevap":"İspanya ve Fransa"}
+    ], "dogru":"2"},
+	{"soru":"Hangisi Hristiyanlaştırılmış bir şaman kutlaması değildir?", "cevaplar":[
+          {"cevap":"Noel"}, 
+          {"cevap":"Paskalya"}, 
+          {"cevap":"Cadılar Bayramı"}, 
+          {"cevap":"Şükran Günü"}
+    ], "dogru":"3"},
+    {"soru":"Hangi ülke en büyük nüfuza sahiptir?", "cevaplar":[
+          {"cevap":"Rusya"}, 
+          {"cevap":"Endonezya"}, 
+          {"cevap":"Hindistan"}, 
+          {"cevap":"Çin"}
+    ], "dogru":"3"}
+]}
