@@ -35,7 +35,7 @@
           {"cevap":"27,1243"},
           {"cevap":"31,4159265"}
     ], "dogru":"0"},
-	{"soru":"If you have a cube with the volume of 9, what is the length of the cube?", "cevaplar":[
+	{"soru":"If you have a cube with the volume of 27, what is the length of the cube?", "cevaplar":[
           {"cevap":"1"},
           {"cevap":"2"},
           {"cevap":"3"},
@@ -46,5 +46,29 @@
           {"cevap":"Orthogonal Lines"}, 
           {"cevap":"Vertical Lines"}, 
           {"cevap":"Perpendicular Lines"}
-    ], "dogru":"3"}
+    ], "dogru":"3"},
+	{"soru":"Jose was counting by 5s. He stopped at 85. What number would come next?", "cevaplar":[
+          {"cevap":"80"},
+          {"cevap":"86"},
+          {"cevap":"90"},
+          {"cevap":"95"}
+    ], "dogru":"2"},
+	{"soru":"Mr. Johnson bought 376 pencils. He lost 39 of them. How many pencils does he have left?", "cevaplar":[
+          {"cevap":"339"},
+          {"cevap":"337"},
+          {"cevap":"343"},
+          {"cevap":"243"}
+    ], "dogru":"1"},
+	{"soru":"If g(x) = -8x + 1, what is g(-2)", "cevaplar":[
+          {"cevap":"15"},
+          {"cevap":"-15"},
+          {"cevap":"17"},
+          {"cevap":"-17"}
+    ], "dogru":"2"},
+	{"soru":"Which one is greater than 0.40", "cevaplar":[
+          {"cevap":"0.5"},
+          {"cevap":"0.040"},
+          {"cevap":"0.309"},
+          {"cevap":"0.08"}
+    ], "dogru":"0"}
 ]}
