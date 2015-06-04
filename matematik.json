@@ -35,7 +35,7 @@
           {"cevap":"27,1243"},
           {"cevap":"31,4159265"}
     ], "dogru":"0"},
-	{"soru":"Hacmi 9 olan kübün kenar uzunluğu kaçtır?", "cevaplar":[
+	{"soru":"Hacmi 27 olan kübün kenar uzunluğu kaçtır?", "cevaplar":[
           {"cevap":"1"},
           {"cevap":"2"},
           {"cevap":"3"},
@@ -46,5 +46,29 @@
           {"cevap":"Asal Sayı"},
           {"cevap":"Reel Sayı"},
           {"cevap":"İrrasyonel Sayı"}
-    ], "dogru":"3"}
+    ], "dogru":"3"},
+	{"soru":"Atilla 5er 5er sayıyordu. 85de durdu. Sıradaki sayı ne olacaktı?", "cevaplar":[
+          {"cevap":"80"},
+          {"cevap":"86"},
+          {"cevap":"90"},
+          {"cevap":"95"}
+    ], "dogru":"2"},
+	{"soru":"Sinem 376 kalem aldı. 39unu kaybetti. Kaç kalemi kaldı?", "cevaplar":[
+          {"cevap":"339"},
+          {"cevap":"337"},
+          {"cevap":"343"},
+          {"cevap":"243"}
+    ], "dogru":"1"},
+	{"soru":"g(x) = -8x + 1 ise, g(-2) kaçtır?", "cevaplar":[
+          {"cevap":"15"},
+          {"cevap":"-15"},
+          {"cevap":"17"},
+          {"cevap":"-17"}
+    ], "dogru":"2"},
+	{"soru":"Hangisi 0.40 dan daha büyüktür?", "cevaplar":[
+          {"cevap":"0.5"},
+          {"cevap":"0.040"},
+          {"cevap":"0.309"},
+          {"cevap":"0.08"}
+    ], "dogru":"0"}
 ]}
