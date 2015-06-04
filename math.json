@@ -70,5 +70,17 @@
           {"cevap":"0.040"},
           {"cevap":"0.309"},
           {"cevap":"0.08"}
-    ], "dogru":"0"}
+    ], "dogru":"0"},
+	{"soru":"3(4x+5) = ?", "cevaplar":[
+          {"cevap":"7x+8"},
+          {"cevap":"15x+18"},
+          {"cevap":"12x+15"},
+          {"cevap":"34x+35"}
+    ], "dogru":"2"},
+	{"soru":"4(4+5) = ?", "cevaplar":[
+          {"cevap":"21"},
+          {"cevap":"49"},
+          {"cevap":"36"},
+          {"cevap":"34"}
+    ], "dogru":"2"}
 ]}
