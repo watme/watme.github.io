@@ -1,0 +1,32 @@
+{"sorular":[
+{"soru":""Bad Blood" is a song by whom?", "cevaplar":[
+ {"cevap":"Taylor Swift"},
+ {"cevap":"David Guetta"},
+ {"cevap":"Wiz Khalifa"},
+ {"cevap":"Demi Lovato"}
+ ], "dogru":"0"},
+ {"soru":""Really Don't Care" is a song by whom?", "cevaplar":[
+ {"cevap":"Taylor Swift"},
+ {"cevap":"David Guetta"},
+ {"cevap":"Wiz Khalifa"},
+ {"cevap":"Demi Lovato"}
+ ], "dogru":"3"},
+ {"soru":""In Your Eyes" is a single by whom?", "cevaplar":[
+ {"cevap":"Britney Spears"},
+ {"cevap":"Taylor Swift"},
+ {"cevap":"INNA"},
+ {"cevap":"Sia"}
+ ], "dogru":"2"},
+ {"soru":""All About That Bass" is a song by whom?", "cevaplar":[
+ {"cevap":"Britney Spears"},
+ {"cevap":"Meghan Trainor"},
+ {"cevap":"Sia"},
+ {"cevap":"Rihanna"}
+ ], "dogru":"1"},
+ {"soru":"Which one is NOT a song by Rihanna?", "cevaplar":[
+ {"cevap":"Diamonds"},
+ {"cevap":"We Found Love"},
+ {"cevap":"Only Girl"},
+ {"cevap":"Thrift Shop"}
+ ], "dogru":"3"}
+ ]}
