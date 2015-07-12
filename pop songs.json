@@ -28,5 +28,71 @@
  {"cevap":"We Found Love"},
  {"cevap":"Only Girl"},
  {"cevap":"Thrift Shop"}
- ], "dogru":"3"}
+ ], "dogru":"3"},
+ {"soru":"Which one is NOT a song by Lady Gaga", "cevaplar":[
+ {"cevap":"Bad Romance"},
+ {"cevap":"Dark Horse"},
+ {"cevap":"Poker Face"},
+ {"cevap":"Alejandro"}
+ ], "dogru":""},
+ {"soru":"Which one is NOT a song by Lady Gaga", "cevaplar":[
+ {"cevap":"Born This Way"},
+ {"cevap":"Judas"},
+ {"cevap":"Timber"},
+ {"cevap":"The Edge Of Glory"}
+ ], "dogru":"2"},
+ {"soru":"Which one is NOT a song by Jason Derulo", "cevaplar":[
+ {"cevap":"Wiggle"},
+ {"cevap":"Talk Dirty"},
+ {"cevap":"Don't Wanna Go Home"},
+ {"cevap":"Chandelier"}
+ ], "dogru":"3"},
+ {"soru":"Which one is NOT a song by Nicki Minaj", "cevaplar":[
+ {"cevap":"Dark Horse"},
+ {"cevap":"Anaconda"},
+ {"cevap":"Super Bass"},
+ {"cevap":"Hey Mama"}
+ ], "dogru":"0"},
+ {"soru":"Which one is NOT a song by Michael Jackson", "cevaplar":[
+ {"cevap":"Thriller"},
+ {"cevap":"Billie Jean"},
+ {"cevap":"Beat It"},
+ {"cevap":"Never Say Never"}
+ ], "dogru":"3"},
+ {"soru":"Which one is NOT a song by Michael Jackson", "cevaplar":[
+ {"cevap":"Billie Jean"},
+ {"cevap":"Bitch I am Madonna"},
+ {"cevap":"Bad"},
+ {"cevap":"Thriller"}
+ ], "dogru":""},
+ {"soru":"Which one is NOT a song by Maroon 5", "cevaplar":[
+ {"cevap":"She will be loved"},
+ {"cevap":"See You Again"},
+ {"cevap":"Moves like Jagger"},
+ {"cevap":"Sugar"}
+ ], "dogru":""},
+ {"soru":"Which one is NOT a song by Maroon 5", "cevaplar":[
+ {"cevap":"This Love"},
+ {"cevap":"Misery"},
+ {"cevap":"Moves like Jagger"},
+ {"cevap":"Come get it"}
+ ], "dogru":"3"},
+ {"soru":"Which one is NOT a song by Selena Gomez", "cevaplar":[
+ {"cevap":"Come Get It"},
+ {"cevap":"Hit The Lights"},
+ {"cevap":"Bad Blood"},
+ {"cevap":"Good For You"}
+ ], "dogru":"2"},
+ {"soru":"Which one is NOT a song by Taylor Swift", "cevaplar":[
+ {"cevap":"Blank Space"},
+ {"cevap":"Shake It Off"},
+ {"cevap":"You Belong With Me"},
+ {"cevap":"Good For You"}
+ ], "dogru":"3"},
+ {"soru":"Which one is NOT a song by Taylor Swift", "cevaplar":[
+ {"cevap":"Timber"},
+ {"cevap":"Bad Blood"},
+ {"cevap":"22"},
+ {"cevap":"Shake It Off"}
+ ], "dogru":"0"}
  ]}
