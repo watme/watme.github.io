@@ -4,7 +4,7 @@
  {"cevap":"Dark Horse"},
  {"cevap":"Poker Face"},
  {"cevap":"Alejandro"}
- ], "dogru":" şarkısı değildir"},
+ ], "dogru":"1"},
  {"soru":"Hangisi bir Lady Gaga şarkısı değildir", "cevaplar":[
  {"cevap":"Born This Way"},
  {"cevap":"Judas"},
@@ -34,13 +34,13 @@
  {"cevap":"Bitch I am Madonna"},
  {"cevap":"Bad"},
  {"cevap":"Thriller"}
- ], "dogru":" şarkısı değildir"},
+ ], "dogru":"1"},
  {"soru":"Hangisi bir Maroon 5 şarkısı değildir", "cevaplar":[
  {"cevap":"She will be loved"},
  {"cevap":"See You Again"},
  {"cevap":"Moves like Jagger"},
  {"cevap":"Sugar"}
- ], "dogru":" şarkısı değildir"},
+ ], "dogru":"1"},
  {"soru":"Hangisi bir Maroon 5 şarkısı değildir", "cevaplar":[
  {"cevap":"This Love"},
  {"cevap":"Misery"},
