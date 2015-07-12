@@ -1,0 +1,68 @@
+{"sorular":[
+{"soru":"Hangisi bir Lady Gaga şarkısı değildir", "cevaplar":[
+ {"cevap":"Bad Romance"},
+ {"cevap":"Dark Horse"},
+ {"cevap":"Poker Face"},
+ {"cevap":"Alejandro"}
+ ], "dogru":" şarkısı değildir"},
+ {"soru":"Hangisi bir Lady Gaga şarkısı değildir", "cevaplar":[
+ {"cevap":"Born This Way"},
+ {"cevap":"Judas"},
+ {"cevap":"Timber"},
+ {"cevap":"The Edge Of Glory"}
+ ], "dogru":"2"},
+ {"soru":"Hangisi bir Jason Derulo şarkısı değildir", "cevaplar":[
+ {"cevap":"Wiggle"},
+ {"cevap":"Talk Dirty"},
+ {"cevap":"Don't Wanna Go Home"},
+ {"cevap":"Chandelier"}
+ ], "dogru":"3"},
+ {"soru":"Hangisi bir Nicki Minaj şarkısı değildir", "cevaplar":[
+ {"cevap":"Dark Horse"},
+ {"cevap":"Anaconda"},
+ {"cevap":"Super Bass"},
+ {"cevap":"Hey Mama"}
+ ], "dogru":"0"},
+ {"soru":"Hangisi bir Michael Jackson şarkısı değildir", "cevaplar":[
+ {"cevap":"Thriller"},
+ {"cevap":"Billie Jean"},
+ {"cevap":"Beat It"},
+ {"cevap":"Never Say Never"}
+ ], "dogru":"3"},
+ {"soru":"Hangisi bir Michael Jackson şarkısı değildir", "cevaplar":[
+ {"cevap":"Billie Jean"},
+ {"cevap":"Bitch I am Madonna"},
+ {"cevap":"Bad"},
+ {"cevap":"Thriller"}
+ ], "dogru":" şarkısı değildir"},
+ {"soru":"Hangisi bir Maroon 5 şarkısı değildir", "cevaplar":[
+ {"cevap":"She will be loved"},
+ {"cevap":"See You Again"},
+ {"cevap":"Moves like Jagger"},
+ {"cevap":"Sugar"}
+ ], "dogru":" şarkısı değildir"},
+ {"soru":"Hangisi bir Maroon 5 şarkısı değildir", "cevaplar":[
+ {"cevap":"This Love"},
+ {"cevap":"Misery"},
+ {"cevap":"Moves like Jagger"},
+ {"cevap":"Come get it"}
+ ], "dogru":"3"},
+ {"soru":"Hangisi bir Selena Gomez şarkısı değildir", "cevaplar":[
+ {"cevap":"Come Get It"},
+ {"cevap":"Hit The Lights"},
+ {"cevap":"Bad Blood"},
+ {"cevap":"Good For You"}
+ ], "dogru":"2"},
+ {"soru":"Hangisi bir Taylor Swift şarkısı değildir", "cevaplar":[
+ {"cevap":"Blank Space"},
+ {"cevap":"Shake It Off"},
+ {"cevap":"You Belong With Me"},
+ {"cevap":"Good For You"}
+ ], "dogru":"3"},
+ {"soru":"Hangisi bir Taylor Swift şarkısı değildir", "cevaplar":[
+ {"cevap":"Timber"},
+ {"cevap":"Bad Blood"},
+ {"cevap":"22"},
+ {"cevap":"Shake It Off"}
+ ], "dogru":"0"}
+ ]}
