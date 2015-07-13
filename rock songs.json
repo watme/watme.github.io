@@ -1,83 +1,83 @@
 {"sorular":[
- {"soru":"Which one is NOT a song by Queen", "cevaplar":[
+ {"soru":"Which one is NOT a song by Queen?", "cevaplar":[
  {"cevap":"Bohemian rhapsody"},
  {"cevap":"Eye of the tiger"},
  {"cevap":"Dont stop me now"},
  {"cevap":"We will rock you"}
  ], "dogru":"1"},
- {"soru":"Which one is NOT a song by Queen", "cevaplar":[
+ {"soru":"Which one is NOT a song by Queen?", "cevaplar":[
  {"cevap":"We will rock you"},
  {"cevap":"Under pressure"},
  {"cevap":"Back in Black"},
  {"cevap":"Dont stop me now"}
  ], "dogru":"2"},
- {"soru":"Which one is NOT a song by Queen", "cevaplar":[
+ {"soru":"Which one is NOT a song by Queen?", "cevaplar":[
  {"cevap":"Somebody to love"},
  {"cevap":"Dont stop me now"},
  {"cevap":"Under pressure"},
  {"cevap":"Stairway to heaven"}
  ], "dogru":"3"},
- {"soru":"Which one is NOT a song by Guns N Roses", "cevaplar":[
+ {"soru":"Which one is NOT a song by Guns N Roses?", "cevaplar":[
  {"cevap":"November Rain"},
  {"cevap":"Led Zeppelin"},
  {"cevap":"Welcome To The Jungle"},
  {"cevap":"Sweet Child O Mine"}
  ], "dogru":"1"},
- {"soru":"Which one is NOT a song by Guns N Roses", "cevaplar":[
+ {"soru":"Which one is NOT a song by Guns N Roses?", "cevaplar":[
  {"cevap":"Eye of the tiger"},
  {"cevap":"Dont Cry"},
  {"cevap":"Paradise City"},
  {"cevap":"Welcome To The Jungle"}
  ], "dogru":"0"},
- {"soru":"Which one is NOT a song by AC/DC", "cevaplar":[
+ {"soru":"Which one is NOT a song by AC/DC?", "cevaplar":[
  {"cevap":"Back in Black"},
  {"cevap":"Wind of change"},
  {"cevap":"Highway to Hell"},
  {"cevap":"TNT"}
  ], "dogru":"1"},
- {"soru":"Which one is NOT a song by AC/DC", "cevaplar":[
+ {"soru":"Which one is NOT a song by AC/DC?", "cevaplar":[
  {"cevap":"Highway to Hell"},
  {"cevap":"Thunderstruck"},
  {"cevap":"Back in Black"},
  {"cevap":"Under Pressure"}
  ], "dogru":"3"},
- {"soru":"Which one is NOT a song by AC/DC", "cevaplar":[
+ {"soru":"Which one is NOT a song by AC/DC?", "cevaplar":[
  {"cevap":"Thunderstruck"},
  {"cevap":"Highway to Hell"},
  {"cevap":"Arctic Monkeys"},
  {"cevap":"Rock N Roll Train"}
  ], "dogru":"2"},
- {"soru":"Which one is NOT a song by Scorpions", "cevaplar":[
+ {"soru":"Which one is NOT a song by Scorpions?", "cevaplar":[
  {"cevap":"No one like you"},
  {"cevap":"Wind of change"},
  {"cevap":"Send me an angel"},
  {"cevap":"Paint it black"}
  ], "dogru":"3"},
- {"soru":"Which one is NOT a song by Scorpions", "cevaplar":[
+ {"soru":"Which one is NOT a song by Scorpions?", "cevaplar":[
  {"cevap":"Hotel california"},
  {"cevap":"Still loving you"},
  {"cevap":"No one like you"},
  {"cevap":"Wind of change"}
  ], "dogru":"0"},
- {"soru":"Which one is NOT a song by Deep Purple", "cevaplar":[
+ {"soru":"Which one is NOT a song by Deep Purple?", "cevaplar":[
  {"cevap":"Passenger"},
  {"cevap":"Smoke on the water"},
  {"cevap":"Soldier Of Fortune"},
  {"cevap":"Child in time"}
  ], "dogru":"0"},
- {"soru":"Which one is NOT a song by Nirvana", "cevaplar":[
+ {"soru":"Which one is NOT a song by Nirvana?", "cevaplar":[
  {"cevap":"Smells like teen spirit"},
  {"cevap":"Never say never"},
  {"cevap":"Heart shaped box"},
  {"cevap":"Come as you are"}
  ], "dogru":"1"},
- {"soru":"Which one is NOT a song by Nirvana", "cevaplar":[
+ {"soru":"Which one is NOT a song by Nirvana?", "cevaplar":[
  {"cevap":"Heart shaped box"},
  {"cevap":"Lithium"},
  {"cevap":"Smells like teen spirit"},
  {"cevap":"People are strange"}
  ], "dogru":"3"},
- {"soru":"Which one is NOT a song by The Doors", "cevaplar":[
+ {"soru":"Which one is NOT a song by The Doors?", "cevaplar":[
  {"cevap":"People are strange"},
  {"cevap":"LA woman"},
  {"cevap":"Smells like teen spirit"},
