@@ -1,0 +1,38 @@
+{"sorular":[
+ {"soru":"ak_bet", "cevaplar":[
+ {"cevap":"i"},
+ {"cevap":"a"},
+ {"cevap":"ı"},
+ {"cevap":"e"}
+ ], "dogru":"2"},
+ {"soru":"f_lan", "cevaplar":[
+ {"cevap":"i"},
+ {"cevap":"e"},
+ {"cevap":"a"},
+ {"cevap":"o"}
+ ], "dogru":"2"},
+ {"soru":"din_zor", "cevaplar":[
+ {"cevap":"e"},
+ {"cevap":"a"},
+ {"cevap":"o"},
+ {"cevap":"ö"}
+ ], "dogru":"2"},
+ {"soru":"çünk_", "cevaplar":[
+ {"cevap":"ü"},
+ {"cevap":"i"},
+ {"cevap":"u"},
+ {"cevap":"o"}
+ ], "dogru":"0"},
+ {"soru":"g_ya", "cevaplar":[
+ {"cevap":"ö"},
+ {"cevap":"ü"},
+ {"cevap":"u"},
+ {"cevap":"ı"}
+ ], "dogru":"1"},
+ {"soru":"tel _ _ _ _ _ _ on ", "cevaplar":[
+ {"cevap":"efon"},
+ {"cevap":"evizy"},
+ {"cevap":"eporta"},
+ {"cevap":"avizey"}
+ ], "dogru":"3"}
+ ]}
