@@ -1,0 +1,44 @@
+{"sorular":[
+ {"soru":"Hangisi bir Danimarka adası değildir?", "cevaplar":[
+ {"cevap":"Lolland"},
+ {"cevap":"Gotland"},
+ {"cevap":"Langeland"},
+ {"cevap":"Bornholm"}
+ ], "dogru":"1"},
+ {"soru":"Bir üçgenin kaç köşesi vardır?", "cevaplar":[
+ {"cevap":"2"},
+ {"cevap":"3"},
+ {"cevap":"4"},
+ {"cevap":"5"}
+ ], "dogru":"1"},
+ {"soru":"İlk afgan savaşının tarihi?", "cevaplar":[
+ {"cevap":"1839"},
+ {"cevap":"1914"},
+ {"cevap":"1743"},
+ {"cevap":"1933"}
+ ], "dogru":"0"},
+ {"soru":"H2O nedir?", "cevaplar":[
+ {"cevap":"İnternet protokolü"},
+ {"cevap":"Su"},
+ {"cevap":"Hava"},
+ {"cevap":"Koreli bir şarkıcı"}
+ ], "dogru":"1"},
+ {"soru":"Everest dağı hangi ülkededir?", "cevaplar":[
+ {"cevap":"Nepal"},
+ {"cevap":"Norveç"},
+ {"cevap":"Hindistan"},
+ {"cevap":"Çin"}
+ ], "dogru":"0"},
+ {"soru":"Hangisi daha hızlı?", "cevaplar":[
+ {"cevap":"Radyo dalgaları"},
+ {"cevap":"Ses dalgaları"},
+ {"cevap":"22 LR kurşun"},
+ {"cevap":"Binali Yıldırım"}
+ ], "dogru":"0"},
+ {"soru":"Dünyanın en uzun iki nehri?", "cevaplar":[
+ {"cevap":"Amazon ve Ucayali"},
+ {"cevap":"Amazon ve Nil"},
+ {"cevap":"Fırat ve Nil"},
+ {"cevap":"Nil ve Yangtze"}
+ ], "dogru":"1"}
+  ]}

@@ -1,0 +1,62 @@
+{"sorular":[
+ {"soru":"Which of these islands is not Danish territory?", "cevaplar":[
+ {"cevap":"Lolland"},
+ {"cevap":"Gotland"},
+ {"cevap":"Langeland"},
+ {"cevap":"Bornholm"}
+ ], "dogru":"1"},
+ {"soru":"Entomology is the science that studies?", "cevaplar":[
+ {"cevap":"Behavior of humans"},
+ {"cevap":"Insects"},
+ {"cevap":"Scientific terms"},
+ {"cevap":"Formation of rocks"}
+ ], "dogru":"1"},
+ {"soru":"How many sides does a triangle have?", "cevaplar":[
+ {"cevap":"2"},
+ {"cevap":"3"},
+ {"cevap":"4"},
+ {"cevap":"5"}
+ ], "dogru":"1"},
+ {"soru":"Hitler party which came into power in 1933?", "cevaplar":[
+ {"cevap":"Nazi Party"},
+ {"cevap":"Democratic Party"},
+ {"cevap":"Labour Party"},
+ {"cevap":"Ku-Klux-Klan"}
+ ], "dogru":"0"},
+ {"soru":"First Afghan War took place in?", "cevaplar":[
+ {"cevap":"1839"},
+ {"cevap":"1914"},
+ {"cevap":"1743"},
+ {"cevap":"1933"}
+ ], "dogru":"0"},
+ {"soru":"What is H2O?", "cevaplar":[
+ {"cevap":"Web protocol"},
+ {"cevap":"Water"},
+ {"cevap":"Air"},
+ {"cevap":"Korean Boyband"}
+ ], "dogru":"1"},
+ {"soru":"Friction can be reduced by changing from?", "cevaplar":[
+ {"cevap":"sliding to rolling"},
+ {"cevap":"rolling to sliding"},
+ {"cevap":"potential energy to kinetic"},
+ {"cevap":"dynamic to static"}
+ ], "dogru":"0"},
+ {"soru":"In which country is Mount Everest?", "cevaplar":[
+ {"cevap":"Nepal"},
+ {"cevap":"Norway"},
+ {"cevap":"India"},
+ {"cevap":"China"}
+ ], "dogru":"0"},
+ {"soru":"Which travel faster?", "cevaplar":[
+ {"cevap":"Radio waves"},
+ {"cevap":"Sound waves"},
+ {"cevap":"22 LR bullet"},
+ {"cevap":"Kevin Rudd"}
+ ], "dogru":"0"},
+ {"soru":"Two longest rivers in the world?", "cevaplar":[
+ {"cevap":"Amazon and Ucayali"},
+ {"cevap":"Amazon and Nile"},
+ {"cevap":"Firat and Nile"},
+ {"cevap":"Nile and Yangtze"}
+ ], "dogru":"1"}
+ ]}
