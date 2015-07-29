@@ -1,0 +1,128 @@
+{"sorular":[
+{"soru":"Aktörlere ne yapacağını söyleyen kişi kimdir?", "cevaplar":[
+ {"cevap":"Yapımcı"},
+ {"cevap":"Yönetmen"},
+ {"cevap":"Senaryo Okuyucusu"},
+ {"cevap":"Tayyip"}
+ ], "dogru":"1"},
+{"soru":"Revenge of the Sith isimli film, hangi film serisindendir?", "cevaplar":[
+ {"cevap":"Star Trek"},
+ {"cevap":"Pirates of the Caribbean"},
+ {"cevap":"Star Wars"},
+ {"cevap":"Harry Potter"}
+ ], "dogru":"2"},
+{"soru":"The Return of the King isimli film, hangi film serisindendir?", "cevaplar":[
+ {"cevap":"Harry Potter"},
+ {"cevap":"The Lord of the Rings"},
+ {"cevap":"The Chronicles of Narnia"},
+ {"cevap":"Star Trek"}
+ ], "dogru":"1"},
+{"soru":"First Class isimli film, hangi film serisindendir?", "cevaplar":[
+ {"cevap":"X-Men"},
+ {"cevap":"Highlander"},
+ {"cevap":"Pirates of the Caribbean"},
+ {"cevap":"Star Wars"}
+ ], "dogru":"0"},
+{"soru":"Rise of the Lycans isimli film, hangi film serisindendir?", "cevaplar":[
+ {"cevap":"Planet of the Apes"},
+ {"cevap":"Step Up"},
+ {"cevap":"Highlander"},
+ {"cevap":"Underworld"}
+ ], "dogru":"3"},
+{"soru":"Catching Fire isimli film, hangi film serisindendir?", "cevaplar":[
+ {"cevap":"From Dusk Till Dawn"},
+ {"cevap":"The Hunger Games"},
+ {"cevap":"The Chronicles of Narnia"},
+ {"cevap":"Underworld"}
+ ], "dogru":"1"},
+{"soru":"The Wrath of Khan isimli film, hangi film serisindendir?", "cevaplar":[
+ {"cevap":"Star Trek"},
+ {"cevap":"The Hunger Games"},
+ {"cevap":"Indiana Jones"},
+ {"cevap":"Underworld"}
+ ], "dogru":"0"},
+{"soru":"Dileği bir peri tarafından kabul edilen yaşlı bir marangoz? (pinokyo)", "cevaplar":[
+ {"cevap":"Dr. Facilier"},
+ {"cevap":"Captain Hook"},
+ {"cevap":"Mister Geppetto"},
+ {"cevap":"Mr. Snoops"}
+ ], "dogru":"2"},
+{"soru":"Hangisi Star Trek II The Wrath of Khan filmindeki bir gezegendir?", "cevaplar":[
+ {"cevap":"Ceti Alpha V"},
+ {"cevap":"Kobol"},
+ {"cevap":"Endor"},
+ {"cevap":"Magrathea"}
+ ], "dogru":"0"},
+{"soru":"Alfred Hitchcock hangi filmine kameraya konuşarak başlar?", "cevaplar":[
+ {"cevap":"I Confess"},
+ {"cevap":"The Wrong Man"},
+ {"cevap":"Foreign Correspondent"},
+ {"cevap":"To Catch a Thief"}
+ ], "dogru":"1"},
+{"soru":"Citizen Dick adlı kurgusal müzik grubu hangi filmdendir?", "cevaplar":[
+ {"cevap":"Singles"},
+ {"cevap":"Reality Bites"},
+ {"cevap":"The Big Lebowski"},
+ {"cevap":"Animal House"}
+ ], "dogru":"0"},
+{"soru":"hangisi gerçek bir film?", "cevaplar":[
+ {"cevap":"Parry Lotter"},
+ {"cevap":"Yo Adrian"},
+ {"cevap":"Hello My New Ex"},
+ {"cevap":"Schindler's List"}
+ ], "dogru":"3"},
+{"soru":"Hangisi gerçek bir film?", "cevaplar":[
+ {"cevap":"Coraline"},
+ {"cevap":"Hopeful Games"},
+ {"cevap":"Geeklists for A Throne"},
+ {"cevap":"Bars and Melody"}
+ ], "dogru":"0"},
+{"soru":"Üvey kız kardeşleri tarafından dışlanan kız baloyu erken terk etmelidir.", "cevaplar":[
+ {"cevap":"Pamuk Prenses"},
+ {"cevap":"Uyuyan Güzel"},
+ {"cevap":"Kül Kedisi"},
+ {"cevap":"Kurbağa Prens"}
+ ], "dogru":"2"},
+{"soru":"Severus Snape ve Draco Malfoy Hogwarts okulunda hangisinin bünyesindedirler?", "cevaplar":[
+ {"cevap":"Ravenclaw"},
+ {"cevap":"Gryffindor"},
+ {"cevap":"Slytherin"},
+ {"cevap":"Hufflepuff"}
+ ], "dogru":"2"},
+{"soru":"Mrs. Norris adlı kedisi olan Hogwarts hademesi kimdir?", "cevaplar":[
+ {"cevap":"Filius Flitwick"},
+ {"cevap":"Gilderoy Lockhart"},
+ {"cevap":"Quirinus Quirrell"},
+ {"cevap":"Argus Filch"}
+ ], "dogru":"3"},
+{"soru":"Planet of the ___ (Mark Wahlberg, 2001)", "cevaplar":[
+ {"cevap":"Orangutans"},
+ {"cevap":"Apes"},
+ {"cevap":"Chimpanzees"},
+ {"cevap":"Gorillas"}
+ ], "dogru":"1"},
+{"soru":"The ___ King", "cevaplar":[
+ {"cevap":"Tiger"},
+ {"cevap":"Cheetah"},
+ {"cevap":"Puma"},
+ {"cevap":"Lion"}
+ ], "dogru":"3"},
+{"soru":"Yogi ___ (Dan Aykroyd, 2010)", "cevaplar":[
+ {"cevap":"Bear"},
+ {"cevap":"Fox"},
+ {"cevap":"Dog"},
+ {"cevap":"Wolf"}
+ ], "dogru":"0"},
+{"soru":"Teenage Mutant Ninja ___ ", "cevaplar":[
+ {"cevap":"Turkeys"},
+ {"cevap":"Turtles"},
+ {"cevap":"Toads"},
+ {"cevap":"Tigers"}
+ ], "dogru":"1"},
+{"soru":"Kung Fu ___ (Jack Black, 2008)", "cevaplar":[
+ {"cevap":"Rabbit"},
+ {"cevap":"Tiger"},
+ {"cevap":"Turtle"},
+ {"cevap":"Panda"}
+ ], "dogru":"3"}
+]}
