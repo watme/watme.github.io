@@ -1,0 +1,56 @@
+{"sorular":[
+{"soru":"Youtube üzerinde bir milyar kez görüntülenen ilk şarkı hangisidir?", "cevaplar":[
+ {"cevap":" Gangnam Style"},
+ {"cevap":"Bad Romance"},
+ {"cevap":"Call Me Maybe"},
+ {"cevap":"Never Say Never"}
+ ], "dogru":"0"},
+ {"soru":"Domuzların kuşlardan yumurta çalmasıyla başlayan oyunun adı nedir?", "cevaplar":[
+ {"cevap":"Bad Piggies"},
+ {"cevap":"Angry Birds"},
+ {"cevap":"Word Bird"},
+ {"cevap":"Evil Piggies"}
+ ], "dogru":"1"},
+ {"soru":"Twitterda # işaretinin ismi nedir?", "cevaplar":[
+ {"cevap":"Pound"},
+ {"cevap":"Selfie"},
+ {"cevap":"Hashtag"},
+ {"cevap":"Grid"}
+ ], "dogru":"2"},
+ {"soru":"Mavi ve beyaz mı yoksa siyah ve sarı mı olduğu tartışılan obje neydi?", "cevaplar":[
+ {"cevap":"elbise"},
+ {"cevap":"kitap"},
+ {"cevap":"duvar"},
+ {"cevap":"elma"}
+ ], "dogru":"0"},
+ {"soru":"Hangisi daha önce kurulmuştur?", "cevaplar":[
+ {"cevap":"uludağ sözlük"},
+ {"cevap":"ekşi sözlük"},
+ {"cevap":"inci sözlük"},
+ {"cevap":"facebook"}
+ ], "dogru":"1"},
+ {"soru":"Attığı topların hedefi tutturamaması sebebiyle internette yıllarca dalga geçilen futbolcu?", "cevaplar":[
+ {"cevap":"Alex de souza"},
+ {"cevap":"Sabri Sarıoğlu"},
+ {"cevap":"Demba Ba"},
+ {"cevap":"Rüştü Önder"}
+ ], "dogru":"1"},
+ {"soru":"Wikileaks sitesinin kurucusu kimdir?", "cevaplar":[
+ {"cevap":"Julian Assange"},
+ {"cevap":"Tim Cook"},
+ {"cevap":"Eric Schmidt"},
+ {"cevap":"Rihanna"}
+ ], "dogru":"0"},
+ {"soru":"Kutlamalarda Google logosu yerine yerleşirilen illüstrasyonlara ne denir?", "cevaplar":[
+ {"cevap":"Google Cartoons"},
+ {"cevap":"Google Googles"},
+ {"cevap":"Google Doodles"},
+ {"cevap":"Google Tayyip"}
+ ], "dogru":"2"},
+ {"soru":"Sosyal ağlarda,linki şaka amaçlı paylaşılan Kandırdım adlı şarkı kimindir?", "cevaplar":[
+ {"cevap":"Hadise"},
+ {"cevap":"Kenan Doğulu"},
+ {"cevap":"Ajdar"},
+ {"cevap":"Çelik"}
+ ], "dogru":"1"}
+]}

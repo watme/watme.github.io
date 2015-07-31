@@ -1,0 +1,62 @@
+{"sorular":[
+{"soru":"The Elder ___?", "cevaplar":[
+ {"cevap":"Scrolls"},
+ {"cevap":"Wins"},
+ {"cevap":"Arms"},
+ {"cevap":"Zelda"}
+ ], "dogru":"0"},
+ {"soru":"Super Mario ___?", "cevaplar":[
+ {"cevap":"Bros"},
+ {"cevap":"Luigis"},
+ {"cevap":"Wins"},
+ {"cevap":"Plusmus"}
+ ], "dogru":"0"},
+ {"soru":"Left 4 ____?", "cevaplar":[
+ {"cevap":"Zelda"},
+ {"cevap":"2"},
+ {"cevap":"Dead"},
+ {"cevap":"Amalur"}
+ ], "dogru":"2"},
+ {"soru":"Grand Theft  ____?", "cevaplar":[
+ {"cevap":"Cars"},
+ {"cevap":"Race"},
+ {"cevap":"Starts"},
+ {"cevap":"Auto"}
+ ], "dogru":"3"},
+ {"soru":"Half- ____?", "cevaplar":[
+ {"cevap":"Life"},
+ {"cevap":"Day"},
+ {"cevap":"Half"},
+ {"cevap":"Brain"}
+ ], "dogru":"0"},
+ {"soru":"Call of  ____?", "cevaplar":[
+ {"cevap":"Mirror"},
+ {"cevap":"Daddy"},
+ {"cevap":"a Theft"},
+ {"cevap":"Duty"}
+ ], "dogru":"3"},
+ {"soru":"Devil May  ____?", "cevaplar":[
+ {"cevap":"Die"},
+ {"cevap":"Get Naughty"},
+ {"cevap":"Cry"},
+ {"cevap":"Far Cry"}
+ ], "dogru":"2"},
+ {"soru":"World of ____?", "cevaplar":[
+ {"cevap":"Duty"},
+ {"cevap":"Get Naughty"},
+ {"cevap":"Tournaments"},
+ {"cevap":"Warcraft"}
+ ], "dogru":"3"},
+ {"soru":"Unreal  ____?", "cevaplar":[
+ {"cevap":"Celebrities"},
+ {"cevap":"Tournament"},
+ {"cevap":"Creed"},
+ {"cevap":"Scrolls"}
+ ], "dogru":"1"},
+ {"soru":"Mortal ____?", "cevaplar":[
+ {"cevap":"Celebrities"},
+ {"cevap":"Kombat"},
+ {"cevap":"Gods"},
+ {"cevap":"Blood"}
+ ], "dogru":"1"}
+]}
