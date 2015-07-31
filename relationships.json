@@ -1,0 +1,44 @@
+{"sorular":[
+{"soru":"What is your opinion on interracial relationships?", "cevaplar":[
+ {"cevap":"Normal"},
+ {"cevap":"Different"},
+ {"cevap":"Weird"},
+ {"cevap":"Wrong"}
+ ], "dogru":"0"},
+ {"soru":"Which of these is not a human right?", "cevaplar":[
+ {"cevap":"to own property"},
+ {"cevap":"free water"},
+ {"cevap":"participate in cultural life"},
+ {"cevap":"to live"}
+ ], "dogru":"1"},
+ {"soru":"What we call a guy who is best friends forever with his crush?", "cevaplar":[
+ {"cevap":"husband"},
+ {"cevap":"friendzoned"},
+ {"cevap":"buffalo-crushed"},
+ {"cevap":"shipped friend"}
+ ], "dogru":"1"},
+ {"soru":"Should people have sex with someone they don't love?", "cevaplar":[
+ {"cevap":"They should"},
+ {"cevap":"They shouldn't"},
+ {"cevap":"Their own decision"},
+ {"cevap":"Only men should"}
+ ], "dogru":"2"},
+ {"soru":"If your partner wants to have some alone time, it means something is wrong?", "cevaplar":[
+ {"cevap":"True"},
+ {"cevap":"False"},
+ {"cevap":"-"},
+ {"cevap":"-"}
+ ], "dogru":"1"},
+ {"soru":"If my partner is never jealous with me, he or she must not be into me.", "cevaplar":[
+ {"cevap":"True"},
+ {"cevap":"False"},
+ {"cevap":"-"},
+ {"cevap":"-"}
+ ], "dogru":"1"},
+ {"soru":"Is it normal to feel attraction to members of both the same sex and the opposite sex?", "cevaplar":[
+ {"cevap":"Yes"},
+ {"cevap":"No"},
+ {"cevap":"Only if you are a girl"},
+ {"cevap":"Only if you are a guy"}
+ ], "dogru":"0"}
+]}

@@ -1,0 +1,32 @@
+{"sorular":[
+{"soru":"İnsanlar aşık olmadıkları biriyle cinsel ilişkiye girmeli mi?", "cevaplar":[
+ {"cevap":"Girmeli"},
+ {"cevap":"Girmemeli"},
+ {"cevap":"Kendileri karar vermeli"},
+ {"cevap":"Erkekse yapmamalı"}
+ ], "dogru":"2"},
+ {"soru":"Farklı ırklardan iki insanın evlenmesi nedir?", "cevaplar":[
+ {"cevap":"normal"},
+ {"cevap":"farklı"},
+ {"cevap":"tuhaf"},
+ {"cevap":"yanlış"}
+ ], "dogru":"0"},
+ {"soru":"Hem erkeklerden hem de kızlardan aynı anda hoşlanmak normal midir?", "cevaplar":[
+ {"cevap":"Evet"},
+ {"cevap":"Hayır"},
+ {"cevap":"Sadece kızlar için"},
+ {"cevap":"Sadece erkekler için"}
+ ], "dogru":"0"},
+ {"soru":"Partnerinizin bazen yalnız kalmak istemesi normal bir şey midir?", "cevaplar":[
+ {"cevap":"Hayır"},
+ {"cevap":"Evet"},
+ {"cevap":"-"},
+ {"cevap":"-"}
+ ], "dogru":"1"},
+ {"soru":"Partneriniz başkalarının sizinle flört etmesini kıskanmıyorsa, sizi seviyor olabilir mi?", "cevaplar":[
+ {"cevap":"Olabilir"},
+ {"cevap":"Olamaz"},
+ {"cevap":"-"},
+ {"cevap":"-"}
+ ], "dogru":"0"}
+]}
