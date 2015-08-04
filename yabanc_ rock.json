@@ -1,158 +1,86 @@
 {"sorular":[
- {"soru":"Which one is NOT a song by Queen?", "cevaplar":[
+ {"soru":"Hangisi bir Queen şarkısı değildir", "cevaplar":[
  {"cevap":"Bohemian rhapsody"},
  {"cevap":"Eye of the tiger"},
  {"cevap":"Dont stop me now"},
  {"cevap":"We will rock you"}
  ], "dogru":"1"},
- {"soru":"Which one is NOT a song by Queen?", "cevaplar":[
+ {"soru":"Hangisi bir Queen şarkısı değildir", "cevaplar":[
  {"cevap":"We will rock you"},
  {"cevap":"Under pressure"},
  {"cevap":"Back in Black"},
  {"cevap":"Dont stop me now"}
  ], "dogru":"2"},
- {"soru":"Which one is NOT a song by Queen?", "cevaplar":[
+ {"soru":"Hangisi bir Queen şarkısı değildir", "cevaplar":[
  {"cevap":"Somebody to love"},
  {"cevap":"Dont stop me now"},
  {"cevap":"Under pressure"},
  {"cevap":"Stairway to heaven"}
  ], "dogru":"3"},
- {"soru":"Which one is NOT a song by Guns N Roses?", "cevaplar":[
+ {"soru":"Hangisi bir Guns N Roses şarkısı değildir", "cevaplar":[
  {"cevap":"November Rain"},
  {"cevap":"Led Zeppelin"},
  {"cevap":"Welcome To The Jungle"},
  {"cevap":"Sweet Child O Mine"}
  ], "dogru":"1"},
- {"soru":"Which one is NOT a song by Guns N Roses?", "cevaplar":[
+ {"soru":"Hangisi bir Guns N Roses şarkısı değildir", "cevaplar":[
  {"cevap":"Eye of the tiger"},
  {"cevap":"Dont Cry"},
  {"cevap":"Paradise City"},
  {"cevap":"Welcome To The Jungle"}
  ], "dogru":"0"},
- {"soru":"Which one is NOT a song by AC/DC?", "cevaplar":[
+ {"soru":"Hangisi bir AC/DC şarkısı değildir", "cevaplar":[
  {"cevap":"Back in Black"},
  {"cevap":"Wind of change"},
  {"cevap":"Highway to Hell"},
  {"cevap":"TNT"}
  ], "dogru":"1"},
- {"soru":"Which one is NOT a song by AC/DC?", "cevaplar":[
+ {"soru":"Hangisi bir AC/DC şarkısı değildir", "cevaplar":[
  {"cevap":"Highway to Hell"},
  {"cevap":"Thunderstruck"},
  {"cevap":"Back in Black"},
  {"cevap":"Under Pressure"}
  ], "dogru":"3"},
- {"soru":"Which one is NOT a song by AC/DC?", "cevaplar":[
+ {"soru":"Hangisi bir AC/DC şarkısı değildir", "cevaplar":[
  {"cevap":"Thunderstruck"},
  {"cevap":"Highway to Hell"},
  {"cevap":"Arctic Monkeys"},
  {"cevap":"Rock N Roll Train"}
  ], "dogru":"2"},
- {"soru":"Which one is NOT a song by Scorpions?", "cevaplar":[
+ {"soru":"Hangisi bir Scorpions şarkısı değildir", "cevaplar":[
  {"cevap":"No one like you"},
  {"cevap":"Wind of change"},
  {"cevap":"Send me an angel"},
  {"cevap":"Paint it black"}
  ], "dogru":"3"},
- {"soru":"Which one is NOT a song by Scorpions?", "cevaplar":[
+ {"soru":"Hangisi bir Scorpions şarkısı değildir", "cevaplar":[
  {"cevap":"Hotel california"},
  {"cevap":"Still loving you"},
  {"cevap":"No one like you"},
  {"cevap":"Wind of change"}
  ], "dogru":"0"},
- {"soru":"Which one is NOT a song by Deep Purple?", "cevaplar":[
+ {"soru":"Hangisi bir Deep Purple şarkısı değildir", "cevaplar":[
  {"cevap":"Passenger"},
  {"cevap":"Smoke on the water"},
  {"cevap":"Soldier Of Fortune"},
  {"cevap":"Child in time"}
  ], "dogru":"0"},
- {"soru":"Which one is NOT a song by Nirvana?", "cevaplar":[
+ {"soru":"Hangisi bir Nirvana şarkısı değildir", "cevaplar":[
  {"cevap":"Smells like teen spirit"},
  {"cevap":"Never say never"},
  {"cevap":"Heart shaped box"},
  {"cevap":"Come as you are"}
  ], "dogru":"1"},
- {"soru":"Which one is NOT a song by Nirvana?", "cevaplar":[
+ {"soru":"Hangisi bir Nirvana şarkısı değildir", "cevaplar":[
  {"cevap":"Heart shaped box"},
  {"cevap":"Lithium"},
  {"cevap":"Smells like teen spirit"},
  {"cevap":"People are strange"}
  ], "dogru":"3"},
- {"soru":"Which one is NOT a song by The Doors?", "cevaplar":[
+ {"soru":"Hangisi bir The Doors şarkısı değildir", "cevaplar":[
  {"cevap":"People are strange"},
  {"cevap":"LA woman"},
  {"cevap":"Smells like teen spirit"},
  {"cevap":"Love me two times"}
- ], "dogru":"2"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Funny Turtles"},
- {"cevap":"Scorpions"},
- {"cevap":"New Animals"},
- {"cevap":"Snakes"}
- ], "dogru":"1"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Led Zeppelin"},
- {"cevap":"Led Lights"},
- {"cevap":"Led Parachute"},
- {"cevap":"Zombabambo"}
- ], "dogru":"0"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Led Parachute"},
- {"cevap":"The Beauties"},
- {"cevap":"The Beatles"},
- {"cevap":"The Parachute"}
- ], "dogru":"2"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Ideal Gasallica"},
- {"cevap":"The Beauties"},
- {"cevap":"King"},
- {"cevap":"Queen"}
- ], "dogru":"3"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Pink Floyd"},
- {"cevap":"Aeropink "},
- {"cevap":"Pinkerbell"},
- {"cevap":"Sth Else With Pink"}
- ], "dogru":"0"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Rolling Snakes"},
- {"cevap":"Aeropink "},
- {"cevap":"The Doctor Who"},
- {"cevap":"Rolling Stones"}
- ], "dogru":"3"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Call of Duty"},
- {"cevap":"The Doctor Who"},
- {"cevap":"Black Sabbath"},
- {"cevap":"Rolling Snakes"}
- ], "dogru":"2"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Metallic Maiden"},
- {"cevap":"Iron Throne"},
- {"cevap":"Metallic Throne"},
- {"cevap":"Iron Maiden"}
- ], "dogru":"3"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Aerosmith"},
- {"cevap":"Iron Throne"},
- {"cevap":"Aeropink"},
- {"cevap":"Iron Maid"}
- ], "dogru":"0"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"The Walls"},
- {"cevap":"The Doors"},
- {"cevap":"Aeropink"},
- {"cevap":"Iron Maid"}
- ], "dogru":"1"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"The When"},
- {"cevap":"The Who"},
- {"cevap":"The What"},
- {"cevap":"The Wazzup"}
- ], "dogru":"1"},
- {"soru":"Which one is a famous rock band?", "cevaplar":[
- {"cevap":"Revenged Sevenfold"},
- {"cevap":"Avenged Sevenfold"},
- {"cevap":"Revenger Even Fold"},
- {"cevap":"Seveneven Revencold"}
- ], "dogru":"1"}
+ ], "dogru":"2"}
 ]}
