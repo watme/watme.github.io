@@ -82,5 +82,77 @@
  {"cevap":"LA woman"},
  {"cevap":"Smells like teen spirit"},
  {"cevap":"Love me two times"}
- ], "dogru":"2"}
+ ], "dogru":"2"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Funny Turtles"},
+ {"cevap":"Scorpions"},
+ {"cevap":"New Animals"},
+ {"cevap":"Snakes"}
+ ], "dogru":"1"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Led Zeppelin"},
+ {"cevap":"Led Lights"},
+ {"cevap":"Led Parachute"},
+ {"cevap":"Zombabambo"}
+ ], "dogru":"0"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Led Parachute"},
+ {"cevap":"The Beauties"},
+ {"cevap":"The Beatles"},
+ {"cevap":"The Parachute"}
+ ], "dogru":"2"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Ideal Gasallica"},
+ {"cevap":"The Beauties"},
+ {"cevap":"King"},
+ {"cevap":"Queen"}
+ ], "dogru":"3"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Pink Floyd"},
+ {"cevap":"Aeropink "},
+ {"cevap":"Pinkerbell"},
+ {"cevap":"Sth Else With Pink"}
+ ], "dogru":"0"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Rolling Snakes"},
+ {"cevap":"Aeropink "},
+ {"cevap":"The Doctor Who"},
+ {"cevap":"Rolling Stones"}
+ ], "dogru":"3"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Call of Duty"},
+ {"cevap":"The Doctor Who"},
+ {"cevap":"Black Sabbath"},
+ {"cevap":"Rolling Snakes"}
+ ], "dogru":"2"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Metallic Maiden"},
+ {"cevap":"Iron Throne"},
+ {"cevap":"Metallic Throne"},
+ {"cevap":"Iron Maiden"}
+ ], "dogru":"3"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Aerosmith"},
+ {"cevap":"Iron Throne"},
+ {"cevap":"Aeropink"},
+ {"cevap":"Iron Maid"}
+ ], "dogru":"0"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"The Walls"},
+ {"cevap":"The Doors"},
+ {"cevap":"Aeropink"},
+ {"cevap":"Iron Maid"}
+ ], "dogru":"1"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"The When"},
+ {"cevap":"The Who"},
+ {"cevap":"The What"},
+ {"cevap":"The Wazzup"}
+ ], "dogru":"1"},
+ {"soru":"Hangisi ünlü bir rock grubudur?", "cevaplar":[
+ {"cevap":"Revenged Sevenfold"},
+ {"cevap":"Avenged Sevenfold"},
+ {"cevap":"Revenger Even Fold"},
+ {"cevap":"Seveneven Revencold"}
+ ], "dogru":"1"}
 ]}
