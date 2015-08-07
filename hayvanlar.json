@@ -1,0 +1,38 @@
+{"sorular":[
+ {"soru":"Hangisi kuş değildir?", "cevaplar":[
+ {"cevap":"Kumru"},
+ {"cevap":"Penguen"},
+ {"cevap":"Angut"},
+ {"cevap":"Güve"}
+ ], "dogru":"3"},
+ {"soru":"Hangisi kuş değildir?", "cevaplar":[
+ {"cevap":"İspinoz"},
+ {"cevap":"Kerkenez"},
+ {"cevap":"İstavrit"},
+ {"cevap":"Kuzgun"}
+ ], "dogru":"2"},
+ {"soru":"Hangisi balık değildir?", "cevaplar":[
+ {"cevap":"Lüfer"},
+ {"cevap":"Mezgit"},
+ {"cevap":"İstavrit"},
+ {"cevap":"İspinoz"}
+ ], "dogru":"3"},
+ {"soru":"At yavrusuna ne ad verilir", "cevaplar":[
+ {"cevap":"Buzağı"},
+ {"cevap":"Katır"},
+ {"cevap":"Tay"},
+ {"cevap":"Sıpa"}
+ ], "dogru":"2"},
+ {"soru":"İnek yavrusuna ne ad verilir", "cevaplar":[
+ {"cevap":"Sıpa"},
+ {"cevap":"Buzağı"},
+ {"cevap":"Manda"},
+ {"cevap":"Malak"}
+ ], "dogru":"1"},
+ {"soru":"Hangisi köpeklerle aynı familyadandır", "cevaplar":[
+ {"cevap":"Kediler"},
+ {"cevap":"Kaplanlar"},
+ {"cevap":"Tilkiler"},
+ {"cevap":"Puma"}
+ ], "dogru":"2"}
+]}

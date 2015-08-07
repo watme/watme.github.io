@@ -1,0 +1,68 @@
+{"sorular":[
+{"soru":"Dogs belong to the same family as these other animals", "cevaplar":[
+ {"cevap":"Deer"},
+ {"cevap":"Wolves"},
+ {"cevap":"Bears"},
+ {"cevap":"Lions"}
+ ], "dogru":"1"},
+ {"soru":"How many stomachs does a cow have", "cevaplar":[
+ {"cevap":"2"},
+ {"cevap":"6"},
+ {"cevap":"4"},
+ {"cevap":"8"}
+ ], "dogru":"2"},
+ {"soru":"What is the name for a baby dog?", "cevaplar":[
+ {"cevap":"pup"},
+ {"cevap":"bull"},
+ {"cevap":"doe"},
+ {"cevap":"chick"}
+ ], "dogru":"0"},
+ {"soru":"What is the name for a baby dolphin?", "cevaplar":[
+ {"cevap":"pup"},
+ {"cevap":"bull"},
+ {"cevap":"doe"},
+ {"cevap":"chick"}
+ ], "dogru":"0"},
+ {"soru":"Which one does not have wings", "cevaplar":[
+ {"cevap":"Falcon"},
+ {"cevap":"Hawk"},
+ {"cevap":"Pig"},
+ {"cevap":"Pigeon"}
+ ], "dogru":"2"},
+ {"soru":"Which one does not have wings", "cevaplar":[
+ {"cevap":"Bat"},
+ {"cevap":"Skunk"},
+ {"cevap":"Falcon"},
+ {"cevap":"Hawk"}
+ ], "dogru":"1"},
+ {"soru":"Which one has wings", "cevaplar":[
+ {"cevap":"Bear"},
+ {"cevap":"Beaver"},
+ {"cevap":"Butterfly"},
+ {"cevap":"Cattle"}
+ ], "dogru":"2"},
+ {"soru":"Which one has wings", "cevaplar":[
+ {"cevap":"Coyote"},
+ {"cevap":"Dove"},
+ {"cevap":"Ferret"},
+ {"cevap":"Weasel"}
+ ], "dogru":"1"},
+ {"soru":"Which one has wings", "cevaplar":[
+ {"cevap":"Yak"},
+ {"cevap":"Zebra"},
+ {"cevap":"Mosquito"},
+ {"cevap":"Opossum"}
+ ], "dogru":"2"},
+ {"soru":"Which one is not an insect", "cevaplar":[
+ {"cevap":"Butterfly"},
+ {"cevap":"Ant"},
+ {"cevap":"Tree Swallow"},
+ {"cevap":"Mosquito"}
+ ], "dogru":"2"},
+ {"soru":"Which one is not a bird", "cevaplar":[
+ {"cevap":"Dove"},
+ {"cevap":"Falcon"},
+ {"cevap":"Penguin"},
+ {"cevap":"Mosquito"}
+ ], "dogru":"3"}
+]}
