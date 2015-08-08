@@ -40,5 +40,53 @@
  {"cevap":"Amazon ve Nil"},
  {"cevap":"Fırat ve Nil"},
  {"cevap":"Nil ve Yangtze"}
- ], "dogru":"1"}
+ ], "dogru":"1"},
+ {"soru":"Denizlere hükmeden yunan tanrısı kimdir?", "cevaplar":[
+ {"cevap":"Zeus"},
+ {"cevap":"Poseidon"},
+ {"cevap":"Eros"},
+ {"cevap":"Medusa"}
+ ], "dogru":"1"},
+ {"soru":"Beni öldürmeyen şey güçlendirir sözünün sahibi kimdir?", "cevaplar":[
+ {"cevap":"Albert Einstein"},
+ {"cevap":"Friedrich Nietzsche"},
+ {"cevap":"James Watt"},
+ {"cevap":"John F. Kennedy"}
+ ], "dogru":"1"},
+ {"soru":"Dizel motoru kim geliştirmiştir?", "cevaplar":[
+ {"cevap":"Rudolf Diesel"},
+ {"cevap":"Carl Benz"},
+ {"cevap":"James Watt"},
+ {"cevap":"Nicola Tesla"}
+ ], "dogru":"0"},
+ {"soru":"Basketbol takımı kaç kişiden oluşur?", "cevaplar":[
+ {"cevap":"3"},
+ {"cevap":"6"},
+ {"cevap":"10"},
+ {"cevap":"12"}
+ ], "dogru":"3"},
+ {"soru":"500 sayısının iki katı kaçtır?", "cevaplar":[
+ {"cevap":"5000"},
+ {"cevap":"2000"},
+ {"cevap":"1000"},
+ {"cevap":"10000"}
+ ], "dogru":"2"},
+ {"soru":"Mıknatıs hangisini daha kolay çeker?", "cevaplar":[
+ {"cevap":"1 gram kağıt"},
+ {"cevap":"2 gram silgi"},
+ {"cevap":"3 gram çelik"},
+ {"cevap":"4 gram demir çivi"}
+ ], "dogru":"2"},
+ {"soru":"Uzaya çıkan ilk insan kimdir?", "cevaplar":[
+ {"cevap":"Youri Gagarine"},
+ {"cevap":"Alan Shepard"},
+ {"cevap":"John Glenn"},
+ {"cevap":"Tayyip"}
+ ], "dogru":"0"},
+ {"soru":"Hangi şehrin nüfusu daha fazla?", "cevaplar":[
+ {"cevap":"Tokyo"},
+ {"cevap":"İstanbul"},
+ {"cevap":"New York"},
+ {"cevap":"Mexico"}
+ ], "dogru":"0"}
   ]}

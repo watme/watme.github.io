@@ -58,5 +58,59 @@
  {"cevap":"Amazon and Nile"},
  {"cevap":"Firat and Nile"},
  {"cevap":"Nile and Yangtze"}
+ ], "dogru":"1"},
+ {"soru":"Which city has the highest population?", "cevaplar":[
+ {"cevap":"Tokyo"},
+ {"cevap":"Istanbul"},
+ {"cevap":"New York"},
+ {"cevap":"Mexico"}
+ ], "dogru":"0"},
+ {"soru":"Which of these mountains ranges is the highest?", "cevaplar":[
+ {"cevap":"The Himalayas"},
+ {"cevap":"The Alps"},
+ {"cevap":"The Andes"},
+ {"cevap":"The Zopabba"}
+ ], "dogru":"2"},
+ {"soru":"Who was the first man in space?", "cevaplar":[
+ {"cevap":"Youri Gagarine"},
+ {"cevap":"Alan Shepard"},
+ {"cevap":"John Glenn"},
+ {"cevap":"The Zopabba"}
+ ], "dogru":"0"},
+ {"soru":"Which one of the objects will be the easiest for the magnet to pull?", "cevaplar":[
+ {"cevap":"1 gram piece of paper"},
+ {"cevap":"2 gram eraser"},
+ {"cevap":"3 gram steel paper"},
+ {"cevap":"4 gram iron nail"}
+ ], "dogru":"2"},
+ {"soru":"What is the double amount of 500?", "cevaplar":[
+ {"cevap":"5000"},
+ {"cevap":"2000"},
+ {"cevap":"1000"},
+ {"cevap":"10000"}
+ ], "dogru":"2"},
+ {"soru":"How many players are there in a basketball team?", "cevaplar":[
+ {"cevap":"3"},
+ {"cevap":"6"},
+ {"cevap":"10"},
+ {"cevap":"12"}
+ ], "dogru":"3"},
+ {"soru":"Who invented diesel engine?", "cevaplar":[
+ {"cevap":"Rudolf Diesel"},
+ {"cevap":"Carl Benz"},
+ {"cevap":"James Watt"},
+ {"cevap":"Nicola Tesla"}
+ ], "dogru":"0"},
+ {"soru":"Who said "That which does not kill us makes us stronger." ?", "cevaplar":[
+ {"cevap":"Albert Einstein"},
+ {"cevap":"Friedrich Nietzsche"},
+ {"cevap":"James Watt"},
+ {"cevap":"John F. Kennedy"}
+ ], "dogru":"1"},
+ {"soru":"Which of the following was the Lord of the Sea?", "cevaplar":[
+ {"cevap":"Zeus"},
+ {"cevap":"Poseidon"},
+ {"cevap":"Eros"},
+ {"cevap":"Medusa"}
  ], "dogru":"1"}
  ]}
