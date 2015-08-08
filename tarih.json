@@ -34,5 +34,77 @@
           {"cevap":"Endonezya"}, 
           {"cevap":"Hindistan"}, 
           {"cevap":"Çin"}
-    ], "dogru":"3"}
+    ], "dogru":"3"},
+ {"soru":"Antik mısırlıların yazı dili hangisiydi", "cevaplar":[
+ {"cevap":"Hiyeroglif"},
+ {"cevap":"Diyagram"},
+ {"cevap":"Anagram"},
+ {"cevap":"Pentroglif"}
+ ], "dogru":"0"},
+ {"soru":"Antik mısırlıların inşa ettiği mezarlar", "cevaplar":[
+ {"cevap":"Graveler"},
+ {"cevap":"Piramitler"},
+ {"cevap":"Müzeler"},
+ {"cevap":"Obeliskler"}
+ ], "dogru":"1"},
+ {"soru":"Eski mısır hükümdarlarına ne ad verilirdi", "cevaplar":[
+ {"cevap":"Başkan"},
+ {"cevap":"Kraliçe"},
+ {"cevap":"Şef"},
+ {"cevap":"Firavun"}
+ ], "dogru":"3"},
+ {"soru":"Antik Romayı inşa eden ikizlerin adları neydi", "cevaplar":[
+ {"cevap":"Mickey ve Minnie"},
+ {"cevap":"Cain ve Abel"},
+ {"cevap":"Romulus ve Remus"},
+ {"cevap":"Adem ve Havva"}
+ ], "dogru":"2"},
+ {"soru":"Romada seçimlerde kimler oy kullanabilirdi", "cevaplar":[
+ {"cevap":"Kadınlar"},
+ {"cevap":"Gladyatörler"},
+ {"cevap":"Köleler"},
+ {"cevap":"Vatandaşlar"}
+ ], "dogru":"3"},
+ {"soru":"Hangisi antik roma içerisinde değildi", "cevaplar":[
+ {"cevap":"İngiltere"},
+ {"cevap":"Fransa"},
+ {"cevap":"İspanya"},
+ {"cevap":"Çin"}
+ ], "dogru":"3"},
+ {"soru":"İnsanların liderlerini seçtiği yönetim şekli", "cevaplar":[
+ {"cevap":"Liderlik"},
+ {"cevap":"Vatandaşlık"},
+ {"cevap":"Cumhuriyet"},
+ {"cevap":"Diktatörlük"}
+ ], "dogru":"2"},
+ {"soru":"Romanların eski resmi dili neydi", "cevaplar":[
+ {"cevap":"İspanyolca"},
+ {"cevap":"Latince"},
+ {"cevap":"İngilizce"},
+ {"cevap":"Yunanca"}
+ ], "dogru":"1"},
+ {"soru":"Bilinen en eski yazılı dil hangisidir", "cevaplar":[
+ {"cevap":"Çince"},
+ {"cevap":"Murikanca"},
+ {"cevap":"Himalaya dili"},
+ {"cevap":"Japonca"}
+ ], "dogru":"0"},
+ {"soru":"Kolombus hangi ülke tarafından sponsor edildi", "cevaplar":[
+ {"cevap":"Almanya"},
+ {"cevap":"İngiltere"},
+ {"cevap":"İspanya"},
+ {"cevap":"Fransa"}
+ ], "dogru":"2"},
+ {"soru":"İlk Dünya Savaşı sonunda hangi antlaşma imzalandı", "cevaplar":[
+ {"cevap":"Brest-Litovsk"},
+ {"cevap":"Viyana Antlaşması"},
+ {"cevap":"Paris Antlaşması"},
+ {"cevap":"Versay Antlaşması"}
+ ], "dogru":"3"},
+ {"soru":"1917 tarihinde Komünist Rusya lideri olan kişi kimdir", "cevaplar":[
+ {"cevap":"Nikita Khurschev"},
+ {"cevap":"Joseph Stalin"},
+ {"cevap":"Vladimir I. Lenin"},
+ {"cevap":"John Philip Sousa"}
+ ], "dogru":"2"}
 ]}

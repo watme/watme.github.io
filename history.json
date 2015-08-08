@@ -34,5 +34,77 @@
           {"cevap":"China"}, 
           {"cevap":"Indonesia"}, 
           {"cevap":"Russia"}
-    ], "dogru":"1"}
+    ], "dogru":"1"},
+ {"soru":"What is the language of the ancient Egyptians", "cevaplar":[
+ {"cevap":"Hieroglyphics"},
+ {"cevap":"Diagrams"},
+ {"cevap":"Anagrams"},
+ {"cevap":"Petroglyphics"}
+ ], "dogru":"0"},
+ {"soru":"Burial places built by the ancient Egyptians", "cevaplar":[
+ {"cevap":"Graves"},
+ {"cevap":"Pyramids"},
+ {"cevap":"Museums"},
+ {"cevap":"Obelisks"}
+ ], "dogru":"1"},
+ {"soru":"What does ruler of ancient Egypt called", "cevaplar":[
+ {"cevap":"Pharaoh"},
+ {"cevap":"President"},
+ {"cevap":"Queen"},
+ {"cevap":"Chief"}
+ ], "dogru":"0"},
+ {"soru":"Who were the twins who founded Ancient Rome", "cevaplar":[
+ {"cevap":"Mickey and Minnie"},
+ {"cevap":"Cain and Abel"},
+ {"cevap":"Romulus and Remus"},
+ {"cevap":"Julius and Augustus"}
+ ], "dogru":"2"},
+ {"soru":"Who could vote in elections in Ancient Rome", "cevaplar":[
+ {"cevap":"Citizens"},
+ {"cevap":"Gladiators"},
+ {"cevap":"Slaves"},
+ {"cevap":"Women"}
+ ], "dogru":"0"},
+ {"soru":"Which was NOT part of the Ancient Roman Empire", "cevaplar":[
+ {"cevap":"England"},
+ {"cevap":"France"},
+ {"cevap":"Spain"},
+ {"cevap":"China"}
+ ], "dogru":"3"},
+ {"soru":"A way of government in which the people elect their leaders", "cevaplar":[
+ {"cevap":"Ruler"},
+ {"cevap":"Citizenship"},
+ {"cevap":"Republic"},
+ {"cevap":"Dictatorship"}
+ ], "dogru":"2"},
+ {"soru":"What was the official language of Ancient Rome", "cevaplar":[
+ {"cevap":"Spanish"},
+ {"cevap":"Latin"},
+ {"cevap":"French"},
+ {"cevap":"English"}
+ ], "dogru":"1"},
+ {"soru":"The oldest written language in the world is ...", "cevaplar":[
+ {"cevap":"Japanese"},
+ {"cevap":"Murican"},
+ {"cevap":"Himalayan"},
+ {"cevap":"Chinese"}
+ ], "dogru":"3"},
+ {"soru":"What country sponsored Columbus voyage", "cevaplar":[
+ {"cevap":"Germany"},
+ {"cevap":"England"},
+ {"cevap":"Spain"},
+ {"cevap":"France"}
+ ], "dogru":"2"},
+ {"soru":"What was the final peace settlement of World War I", "cevaplar":[
+ {"cevap":" Treaty of Brest-Litovsk"},
+ {"cevap":"North Atlantic Treaty"},
+ {"cevap":"Treaty of Paris"},
+ {"cevap":"Treaty of Versailles"}
+ ], "dogru":"3"},
+ {"soru":"Who led the new Communist government in Russia in 1917", "cevaplar":[
+ {"cevap":"Nikita Khrushchev"},
+ {"cevap":"Joseph Stalin"},
+ {"cevap":"Vladimir I. Lenin"},
+ {"cevap":"John Philip Sousa"}
+ ], "dogru":"2"}
 ]}
