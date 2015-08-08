@@ -82,5 +82,41 @@
           {"cevap":"49"},
           {"cevap":"36"},
           {"cevap":"34"}
-    ], "dogru":"2"}
+    ], "dogru":"2"},
+ {"soru":"100 santim bir metre ise, 4 metre kaç santimdir?", "cevaplar":[
+ {"cevap":"104"},
+ {"cevap":"25"},
+ {"cevap":"400"},
+ {"cevap":"250"}
+ ], "dogru":"2"},
+ {"soru":"Romen rakamlarıyla 12 nasıl ifade edilir?", "cevaplar":[
+ {"cevap":"XII"},
+ {"cevap":"VVIIIV"},
+ {"cevap":"XXI"},
+ {"cevap":"IIIX"}
+ ], "dogru":"0"},
+ {"soru":"Romen rakamlarıyla 7 nasıl ifade edilir?", "cevaplar":[
+ {"cevap":"XIII"},
+ {"cevap":"IIIV"},
+ {"cevap":"VII"},
+ {"cevap":"IIIVV"}
+ ], "dogru":"2"},
+ {"soru":"19/6 sayısı hangi iki sayı arasındadır?", "cevaplar":[
+ {"cevap":"1 ile 2"},
+ {"cevap":"3 ile 4"},
+ {"cevap":"18 ile 25"},
+ {"cevap":"6 ile 19"}
+ ], "dogru":"1"},
+ {"soru":"0 3 5 ve 6 rakamlarıyla yazılabilecek en küçük 4 basamaklı sayı nedir?", "cevaplar":[
+ {"cevap":"0356"},
+ {"cevap":"5063"},
+ {"cevap":"6035"},
+ {"cevap":"3056"}
+ ], "dogru":"3"},
+ {"soru":"Romen rakamlarıyla 19 nasıl ifade edilir?", "cevaplar":[
+ {"cevap":"XL"},
+ {"cevap":"VVIIIIIIIII"},
+ {"cevap":"IXX"},
+ {"cevap":"XIX"}
+ ], "dogru":"3"}
 ]}

@@ -82,5 +82,47 @@
           {"cevap":"49"},
           {"cevap":"36"},
           {"cevap":"34"}
-    ], "dogru":"2"}
+    ], "dogru":"2"},
+ {"soru":"What is the roman numeral for 18?", "cevaplar":[
+ {"cevap":"XXVIII"},
+ {"cevap":"XVIII"},
+ {"cevap":"IVIII"},
+ {"cevap":"VVVIII"}
+ ], "dogru":"1"},
+ {"soru":"What is the roman numeral for 10?", "cevaplar":[
+ {"cevap":"V"},
+ {"cevap":"Z"},
+ {"cevap":"X"},
+ {"cevap":"IIIIVIIIIII"}
+ ], "dogru":"2"},
+ {"soru":"What is the roman numeral for 7?", "cevaplar":[
+ {"cevap":"VII"},
+ {"cevap":"XIII"},
+ {"cevap":"IIV"},
+ {"cevap":"IIIX"}
+ ], "dogru":"0"},
+ {"soru":"What is the roman numeral for 9?", "cevaplar":[
+ {"cevap":"IX"},
+ {"cevap":"VIII"},
+ {"cevap":"IXX"},
+ {"cevap":"XII"}
+ ], "dogru":"0"},
+ {"soru":"The smallest 4 digit number by using the digits 0, 3, 5, 6?", "cevaplar":[
+ {"cevap":"0356"},
+ {"cevap":"6035"},
+ {"cevap":"6503"},
+ {"cevap":"3056"}
+ ], "dogru":"3"},
+ {"soru":"19/6 is a number between ...?", "cevaplar":[
+ {"cevap":"1 and 2"},
+ {"cevap":"3 and 4"},
+ {"cevap":"19 and 20"},
+ {"cevap":"6 and 18"}
+ ], "dogru":"1"},
+ {"soru":"If 12 inches=1 foot, than 4 feet equals how many inches?", "cevaplar":[
+ {"cevap":"12"},
+ {"cevap":"3"},
+ {"cevap":"48"},
+ {"cevap":"96"}
+ ], "dogru":"2"}
 ]}
