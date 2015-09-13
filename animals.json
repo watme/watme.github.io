@@ -53,16 +53,40 @@
  {"cevap":"Mosquito"},
  {"cevap":"Opossum"}
  ], "dogru":"2"},
- {"soru":"Which one is not an insect", "cevaplar":[
+ {"soru":"Which one is not an insect?", "cevaplar":[
  {"cevap":"Butterfly"},
  {"cevap":"Ant"},
  {"cevap":"Tree Swallow"},
  {"cevap":"Mosquito"}
  ], "dogru":"2"},
- {"soru":"Which one is not a bird", "cevaplar":[
+ {"soru":"Which one is not a bird?", "cevaplar":[
  {"cevap":"Dove"},
  {"cevap":"Falcon"},
  {"cevap":"Penguin"},
  {"cevap":"Mosquito"}
+ ], "dogru":"3"},
+ {"soru":"What is the fastest land animal in the world?", "cevaplar":[
+ {"cevap":"Cheetah"},
+ {"cevap":"Falcon"},
+ {"cevap":"Wolf"},
+ {"cevap":"Batman"}
+ ], "dogru":"0"},
+ {"soru":"What is the tallest animal in the world?", "cevaplar":[
+ {"cevap":"Zebra"},
+ {"cevap":"Giraffe "},
+ {"cevap":"Wolf"},
+ {"cevap":"Elephant"}
+ ], "dogru":"1"},
+ {"soru":"How many legs does a spider have?", "cevaplar":[
+ {"cevap":"2"},
+ {"cevap":"4"},
+ {"cevap":"8"},
+ {"cevap":"16"}
+ ], "dogru":"2"},
+ {"soru":"What is the only continent on earth where Giraffes live in the wild?", "cevaplar":[
+ {"cevap":"America"},
+ {"cevap":"Europe"},
+ {"cevap":"Asia"},
+ {"cevap":"Africa"}
  ], "dogru":"3"}
 ]}
